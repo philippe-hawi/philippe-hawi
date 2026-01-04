@@ -3,7 +3,7 @@
 -->
 
 <p align="center">
-  <img src="https://github.com/PhilippeHawi/PhilippeHawi/blob/main/assets/banner-github.png?raw=true" alt="Philippe Hawi Banner">
+  <img src="https://github.com/Philippe-Hawi/Philippe-Hawi/blob/main/assets/banner-github.png?raw=true" alt="Philippe Hawi Banner">
 </p>
 
 <h1 align="center">Hi there, I'm Philippe Hawi 👋</h1>
@@ -16,7 +16,7 @@
   <a href="https://scholar.google.com/citations?user=x3LdXP8AAAAJ&hl=en" target="_blank">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar">
   </a>
-  <a href="https://philippehawi.github.io" target="_blank">
+  <a href="https://philippe-hawi.github.io" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-333333?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio">
   </a>
   <a href="https://x.com/HawiPhilippe" target="_blank">
@@ -110,12 +110,12 @@ I’m always open to collaborating on <strong>open-source projects in scientific
 <h2>🔬 My Open Source Contributions</h2>
 <ul>
   <li><strong>PLoM:</strong> A Python toolkit for Projection on Local Manifolds, designed for efficient probabilistic modeling and generation of high-dimensional data.</li>
-  <a href="https://github.com/PhilippeHawi/PLoM" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhilippeHawi&repo=PLoM&theme=dracula&show_owner=true" alt="PLoM Repository" width="49%">
+  <a href="https://github.com/Philippe-Hawi/PLoM" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Philippe-Hawi&repo=PLoM&theme=dracula&show_owner=true" alt="PLoM Repository" width="49%">
   </a>
   <li><strong>CKDE:</strong> An open-source package implementing Conditional Kernel Density Estimation for complex data distributions.</li>
-  <!--<a href="https://github.com/PhilippeHawi/CKDE" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=PhilippeHawi&repo=CKDE&theme=dracula&show_owner=true" alt="CKDE Repository" width="49%">
+  <!--<a href="https://github.com/Philippe-Hawi/CKDE" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Philippe-Hawi&repo=CKDE&theme=dracula&show_owner=true" alt="CKDE Repository" width="49%">
   </a>-->
 </ul>
 
@@ -207,6 +207,6 @@ I’m always open to collaborating on <strong>open-source projects in scientific
 <h2>📊 My GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PhilippeHawi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Philippe's GitHub Stats" width="49%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippeHawi&layout=compact&langs_count=8&theme=dracula" alt="Philippe's Top Languages" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api?username=Philippe-Hawi&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Philippe's GitHub Stats" width="49%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philippe-Hawi&layout=compact&langs_count=8&theme=dracula" alt="Philippe's Top Languages" width="49%">
 </p>
